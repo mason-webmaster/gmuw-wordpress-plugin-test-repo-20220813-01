@@ -9,7 +9,7 @@
  * Author:            Mason Web Administration
  * Plugin URI:        https://github.com/mason-webmaster/gmuw-wordpress-plugin-test-repo-20220813-01
  * Description:       Test Plugin 20220813-01
- * Version:           0.9
+ * Version:           0.9.1
  */
 
 
